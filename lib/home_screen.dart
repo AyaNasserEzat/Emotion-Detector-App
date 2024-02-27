@@ -85,7 +85,7 @@ class _EmotionDetctorState extends State<EmotionDetctor> {
         backgroundColor: Colors.white,
         centerTitle: true,
         title: Text(
-          'Emotion Detctor',
+          'Emotion Detector',
           style: TextStyle(color: Colors.black),
         ),
       ),
